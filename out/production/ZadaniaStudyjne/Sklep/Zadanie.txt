@@ -1,0 +1,7 @@
+Cel zadania
+Zrobić klasy:
+Towar - zawierające string name
+Regal -  zawierajace lista towarów "towary" i metode duplicate(Towar t) która daje listę towarów z owej pułki
+Sklep - zawierajce liste regałów - w razie braku towaru na regale ma zwracać wyjątek
+
+// zalecane użycie listy ArrayList i contains

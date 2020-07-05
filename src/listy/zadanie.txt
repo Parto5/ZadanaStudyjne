@@ -1,0 +1,9 @@
+Zrobić listę jednokierunkową
+gdzie klasa Anchor jest wskażnikiem na pierwszy element
+a Element jest kolejnym elementem listy.
+
+Funkcje addfirst, addlast, removefirst, removelast, equal, toString
+
+
+Zadanie Mapa
+zrobić mapę z częstością wystąpienia imion z metodą choose która wyciąga najczęściej występującą.
